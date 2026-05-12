@@ -1,0 +1,107 @@
+{
+  "version": "2.11",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 0,
+      "y": 0,
+      "name": "Frame",
+      "clip": true,
+      "width": 800,
+      "height": 600,
+      "fill": "#FFFFFF",
+      "layout": "none"
+    },
+    {
+      "type": "frame",
+      "id": "vTPnz",
+      "x": 0,
+      "y": 0,
+      "name": "OldHouse",
+      "width": 800,
+      "height": 600,
+      "fill": {
+        "type": "image",
+        "enabled": true,
+        "url": "./images/generated-1778527880385.png",
+        "mode": "fill"
+      }
+    },
+    {
+      "type": "frame",
+      "id": "t8Rx9l",
+      "x": 0,
+      "y": 0,
+      "name": "Alley2",
+      "width": 800,
+      "height": 600,
+      "fill": {
+        "type": "image",
+        "enabled": true,
+        "url": "./images/generated-1778527884264.png",
+        "mode": "fill"
+      }
+    },
+    {
+      "type": "frame",
+      "id": "Jj0or",
+      "x": 0,
+      "y": 0,
+      "name": "Temple2",
+      "width": 800,
+      "height": 600,
+      "fill": {
+        "type": "image",
+        "enabled": true,
+        "url": "./images/generated-1778527883948.png",
+        "mode": "fill"
+      }
+    },
+    {
+      "type": "frame",
+      "id": "gcVQj",
+      "x": 0,
+      "y": 0,
+      "name": "Food2",
+      "width": 800,
+      "height": 600,
+      "fill": {
+        "type": "image",
+        "enabled": true,
+        "url": "./images/generated-1778527885569.png",
+        "mode": "fill"
+      }
+    },
+    {
+      "type": "frame",
+      "id": "q6f2O",
+      "x": 0,
+      "y": 0,
+      "name": "Anping2",
+      "width": 800,
+      "height": 600,
+      "fill": {
+        "type": "image",
+        "enabled": true,
+        "url": "./images/generated-1778527894738.png",
+        "mode": "fill"
+      }
+    },
+    {
+      "type": "frame",
+      "id": "Kjekd",
+      "x": 0,
+      "y": 0,
+      "name": "Custom2",
+      "width": 800,
+      "height": 600,
+      "fill": {
+        "type": "image",
+        "enabled": true,
+        "url": "./images/generated-1778527882078.png",
+        "mode": "fill"
+      }
+    }
+  ]
+}
