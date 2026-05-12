@@ -1606,4 +1606,27 @@
     }
   }
 
+/* ── Map Label ── */
+.map-label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.65rem 1rem;
+  background: var(--cream, #f5f0e8);
+  border-top: 0.5px solid var(--stone, #c8b89a);
+  border-bottom: 0.5px solid var(--stone, #c8b89a);
+  font-family: var(--font-sans, 'Noto Sans TC', sans-serif);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  color: var(--ink, #1a1612);
+  font-weight: 400;
+}
+
+.map-label .icon {
+  font-size: 1.05rem;
+  color: var(--gold, #c8973a);
+  flex-shrink: 0;
+  vertical-align: -0.15em;
+}
+
 
